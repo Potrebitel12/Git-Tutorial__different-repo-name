@@ -1,2 +1,2 @@
 console.log("change.js");
-console.log("version 1.5");
+console.log("Version 1.5");
